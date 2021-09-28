@@ -2,18 +2,18 @@
 ## naw just kidding i'm linking your article now
 # this is a single pound so i think it makes bigger 
 You can use the [editor on GitHub](https://github.com/Legit-Ninja/TripEditorialWebsite/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-'''markdown
-not a acode block
-###can only add to markdowns??
-### help me 
-'''
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-[Link](https://cornhub.website/)
+
 ### Markdown
 
+'''markdown
+Syntax highlighted code block
+[Link](https://cornhub.website/)
+'''
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
+
 Syntax highlighted code block
 #Here are some some articles on things in the country of England
 # Header 1 
