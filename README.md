@@ -10,14 +10,20 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
-# Header 1
+#Here are some some articles on things in the country of England
+# Header 1 
+#this is under the header1
 ## Header 2
+this is under the header two with no pound's in front
 ### Header 3
-
+# i am in bold for somem reason under the header three 
+## i am double punded
+### triple?!?!?
 - Bulleted
 - List
-
+- next bullet should be link to article??
+- [Link](https://cornhub.website/)
+ **this might be bolded, not have any pounds
 1. Numbered
 2. List
 
