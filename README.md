@@ -1,9 +1,10 @@
 ## Welcome to GitHub Pages
-
+## naw just kidding i'm linking your article now
+# this is a single pound so i think it makes bigger 
 You can use the [editor on GitHub](https://github.com/Legit-Ninja/TripEditorialWebsite/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+[Link](https://cornhub.website/)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -31,6 +32,7 @@ this is under the header two with no pound's in front
 
 [Link](url) and ![Image](src)
 ```
+Here is the link to my article
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
