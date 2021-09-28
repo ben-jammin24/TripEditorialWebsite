@@ -4,11 +4,17 @@
 You can use the [editor on GitHub](https://github.com/Legit-Ninja/TripEditorialWebsite/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+```markdown 
+i mightve just been using the wrong symbols lol
+# HEADER
+## actual link
+- [real thing](https://www.bbc.com/news/england)
+```
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-'''markdown
+```markdown
 
 Syntax highlighted code block
 #Here are some some articles on things in the country of England
