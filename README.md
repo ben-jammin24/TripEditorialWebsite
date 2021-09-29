@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 ## naw just kidding i'm linking your article now
-# [article](https://www.youtube.com/results?search_query=how+to+kiss+a+gorl)
+# [article](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 You can use the [editor on GitHub](https://github.com/Legit-Ninja/TripEditorialWebsite/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
