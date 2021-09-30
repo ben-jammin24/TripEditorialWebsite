@@ -1,4 +1,5 @@
 -------
+layout: post
 title: See an article and check out ths new company!
 ------
 
