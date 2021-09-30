@@ -1,5 +1,5 @@
 -------
-title: 
+title: See an article and check out ths new company!
 ------
 
 
