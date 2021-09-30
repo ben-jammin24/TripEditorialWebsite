@@ -8,7 +8,7 @@ title: See an article and check out ths new company!
 # [article](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Learn about coincover!
-### [permalink](/site.md)
+### [coincover](/site.md)
   
 
 ![image of big ben](https://images.theconversation.com/files/182776/original/file-20170821-27160-1kwep4u.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=900.0&fit=crop)
