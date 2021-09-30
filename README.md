@@ -1,7 +1,7 @@
--------
+---
 layout: post
 title: See an article and check out ths new company!
-------
+---
 
 
 # here is my website that takes you to another website
