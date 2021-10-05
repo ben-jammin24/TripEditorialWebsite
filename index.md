@@ -7,7 +7,7 @@ title: See an article and check out ths new company!
 
 
 # here is my website that takes you to another website
-# [article](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+# [article](https://www.youtube.com/watch?v=Fiyq9UQ7gg4)
 
 ## Learn about coincover!
 ### [coincover](/site.md)
